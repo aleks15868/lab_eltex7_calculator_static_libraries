@@ -1,4 +1,4 @@
-### Документация https://aleks15868.github.io/lab_eltex7_calculator_static_libraries/
+### Документация https://aleks15868.github.io/lab_eltex_homework7_calculator_static_libraries/
 ### Задание:
 Реализовать программу калькулятор с функционалом над целыми числами:
 сложение, вычитание, умножение, деление. При запуске программы на экране
